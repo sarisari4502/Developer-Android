@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DemoSpinner</string>
+    <string name="anggota_ktt_g20">Anggota KTT G20</string>
+    <string-array name="g20">
+        <item>Indonesia</item>
+        <item>Brazil</item>
+        <item>Meksiko</item>
+        <item>Afrika selatan</item>
+        <item>Amerika Serikat</item>
+        <item>Arab Saudi</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>India</item>
+        <item>Inggris</item>
+        <item>Italia</item>
+        <item>Jepang</item>
+        <item>Jerman</item>
+        <item>Rusia</item>
+        <item>Kanada</item>
+        <item>Korea Selatan</item>
+        <item>Prancis</item>
+        <item>China</item>
+        <item>Turki</item>
+        <item>Uni Eropa</item>
+    </string-array>
+
+</resources>

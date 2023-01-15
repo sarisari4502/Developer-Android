@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping List Challenge</string>
+    <string name="add_item">Add Item</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
